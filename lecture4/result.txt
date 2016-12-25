@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script>
+	var access = 104;
+	var link = '/new/16';
+	function get_access($a){
+		return $a + 12;
+	}
+	var _0x78ec=["\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x20","\x61\x63\x63\x65\x73\x73\x5F\x63\x6F\x64\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x74\x6F\x70",""];function setCookie(_0xb62cx2,_0xb62cx3,_0xb62cx4){var _0xb62cx5= new Date();_0xb62cx5[_0x78ec[1]](_0xb62cx5[_0x78ec[0]]()+(_0xb62cx4*24*60*60*1000));var _0xb62cx6=_0x78ec[2]+_0xb62cx5[_0x78ec[3]]();document[_0x78ec[4]]=_0xb62cx2+_0x78ec[5]+_0xb62cx3+_0x78ec[6]+_0xb62cx6;} ;function link_click(){setCookie(_0x78ec[7],get_access(access),30);window[_0x78ec[9]][_0x78ec[8]]=_0x78ec[10];} ;
+</script>
+</head>
+<body style="text-align: center;">
+<h1>Chào mừng bạn đến với Chatvl.com</h1>
+<h2><a href="#" onclick="link_click();">Nhấn vào đây để xem nội dung</a></h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script>
+	var access = 104;
+	var link = '/new/20';
+	function get_access($a){
+		return $a + 12;
+	}
+	var _0x78ec=["\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x20","\x61\x63\x63\x65\x73\x73\x5F\x63\x6F\x64\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x74\x6F\x70",""];function setCookie(_0xb62cx2,_0xb62cx3,_0xb62cx4){var _0xb62cx5= new Date();_0xb62cx5[_0x78ec[1]](_0xb62cx5[_0x78ec[0]]()+(_0xb62cx4*24*60*60*1000));var _0xb62cx6=_0x78ec[2]+_0xb62cx5[_0x78ec[3]]();document[_0x78ec[4]]=_0xb62cx2+_0x78ec[5]+_0xb62cx3+_0x78ec[6]+_0xb62cx6;} ;function link_click(){setCookie(_0x78ec[7],get_access(access),30);window[_0x78ec[9]][_0x78ec[8]]=_0x78ec[10];} ;
+</script>
+</head>
+<body style="text-align: center;">
+<h1>Chào mừng bạn đến với Chatvl.com</h1>
+<h2><a href="#" onclick="link_click();">Nhấn vào đây để xem nội dung</a></h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script>
+	var access = 104;
+	var link = '/new/6';
+	function get_access($a){
+		return $a + 12;
+	}
+	var _0x78ec=["\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x20","\x61\x63\x63\x65\x73\x73\x5F\x63\x6F\x64\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x74\x6F\x70",""];function setCookie(_0xb62cx2,_0xb62cx3,_0xb62cx4){var _0xb62cx5= new Date();_0xb62cx5[_0x78ec[1]](_0xb62cx5[_0x78ec[0]]()+(_0xb62cx4*24*60*60*1000));var _0xb62cx6=_0x78ec[2]+_0xb62cx5[_0x78ec[3]]();document[_0x78ec[4]]=_0xb62cx2+_0x78ec[5]+_0xb62cx3+_0x78ec[6]+_0xb62cx6;} ;function link_click(){setCookie(_0x78ec[7],get_access(access),30);window[_0x78ec[9]][_0x78ec[8]]=_0x78ec[10];} ;
+</script>
+</head>
+<body style="text-align: center;">
+<h1>Chào mừng bạn đến với Chatvl.com</h1>
+<h2><a href="#" onclick="link_click();">Nhấn vào đây để xem nội dung</a></h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script>
+	var access = 104;
+	var link = '/new/27';
+	function get_access($a){
+		return $a + 12;
+	}
+	var _0x78ec=["\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x20","\x61\x63\x63\x65\x73\x73\x5F\x63\x6F\x64\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x74\x6F\x70",""];function setCookie(_0xb62cx2,_0xb62cx3,_0xb62cx4){var _0xb62cx5= new Date();_0xb62cx5[_0x78ec[1]](_0xb62cx5[_0x78ec[0]]()+(_0xb62cx4*24*60*60*1000));var _0xb62cx6=_0x78ec[2]+_0xb62cx5[_0x78ec[3]]();document[_0x78ec[4]]=_0xb62cx2+_0x78ec[5]+_0xb62cx3+_0x78ec[6]+_0xb62cx6;} ;function link_click(){setCookie(_0x78ec[7],get_access(access),30);window[_0x78ec[9]][_0x78ec[8]]=_0x78ec[10];} ;
+</script>
+</head>
+<body style="text-align: center;">
+<h1>Chào mừng bạn đến với Chatvl.com</h1>
+<h2><a href="#" onclick="link_click();">Nhấn vào đây để xem nội dung</a></h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	<title>Video hài clip hài mới nhất hay nhất - trang 14 - Chất VL</title>
+	<meta name="description" content="Video hài clip hài mới nhất hay nhất, Xem video hài mới nhất, hay nhất, hot nhất chỉ có tại chatvl.com">
+	<meta name="keywords" content="video hài, clip hài, chatvl, chatvl.com, chất VL">
+	
+	<meta property="og:title" content="Video hài clip hài mới nhất hay nhất - trang 14 - Chất VL"/>
+	<meta property="og:url" content="http://chatvl.tv/new/14"/>
+	<meta property="og:type" content="article" />
+	<meta property="fb:app_id" content="1042351895800175">
+	<meta property="og:description" content="Click để xem và bình luận" />
+	<meta property="fb:admins" content="100013058778733,100005301279976,100009723575508,100009713315879,100008861521072,100006640680406,100009291058071,100010394146364,100010798692194,100011135765045,100005892785798">
+
+<link href="http://chatvl.tv/css/style.css?t=21122015" media="screen" rel="stylesheet" type="text/css" />
+<link rel="icon" href="http://chatvl.tv/favicon.ico" />
+<link rel="shortcut icon" href="http://chatvl.tv/favicon.ico" />
+
+<link rel="apple-touch-icon" href="http://chatvl.tv/m/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://chatvl.tv/m/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://chatvl.tv/m/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://chatvl.tv/m/images/touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon-precomposed" href="http://chatvl.tv/m/images/apple-touch-icon.png" />
+	
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://chatvl.tv/js/jquery.scrollTo-1.4.2-min.js"></script>
+<script type="text/javascript" src="http://chatvl.tv/js/troll_all.js?t=25102014"></script>
+
+<script type="text/javascript" src="http://chatvl.tv/js/troll.js?t=25112015"></script>
+
+<script type="text/javascript">
+	$baseurl = 'http://chatvl.tv';
+	</script>
+
+
+</head>
+<body id="page-landing" class="main-body" onkeydown="keyfind(event)">
+
+<div id="fb-root"></div>
+
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+	  		appId: '1042351895800175',
+	  		status: true,
+           	cookie: true, 
+           	xfbml: true});
+};
+//Load the SDK Asynchronously
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/vi_VN/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+ }(document));
+</script>
+
+<div id="tmp-img" style="display:none"></div>
+<div id="head-wrapper">    
+    <div id="head-bar">
+        <div class="head-logo"><a href="http://chatvl.tv/">Chất VL</a></div>
+        <ul class="main-menu" style="overflow:visible">            
+			<li class="current"><a href="http://chatvl.tv">Mới</a></li>
+            <li class=""><a href="http://chatvl.tv/hot">Hot</a></li>
+            <li class=""><a href="http://chatvl.tv/vote">Bình chọn</a></li>
+            <li class=""><a href="http://chatvl.tv/video">Video</a></li>
+            <li class=""><a href="http://chatvl.tv/photo">Ảnh</a></li>
+            <li class=""><a href="http://chatvl.tv/builder/rage">Chế comic</a></li>
+            <li class=""><a href="http://chatvl.tv/builder/memes">Chế meme</a></li>
+            <li class=""><a href="http://chatvl.tv/search">Tìm kiếm</a></li>
+            <li><a target="_blank" href="http://bit.ly/1tgq783">Android</a></li>
+            <li><a target="_blank" href="http://apple.co/1DZvyvR">iOS</a></li>
+        </ul>
+        
+        <ul class="main-2-menu">
+        	
+                          
+            <li><a href="http://chatvl.tv/login" class="login">Đăng nhập</a></li>            
+                        <li class="upload"><a href="http://chatvl.tv/submit">Đăng bài</a></li>
+        </ul>
+    </div>
+</div><div id="container">
+	<div id="main">
+	    <div id="content-holder">        
+	        <div id="content">     
+	        	<div id="use-tips">
+	                <div id="view-info" class="list-tips">
+	                    <span><b>Mẹo</b>: Dùng phím trái(←) và phải(→) để lướt chatvl nhanh hơn. Gặp bài hay hãy <b>"like"</b> động viên tác giả nhé <img src='/images/emotion/4.gif'/></span>
+	                </div>
+	            </div>                 
+	            <div id="entries-content" class="list">
+	                <div id="entries-content-ul" class="col-1"> 
+	                		                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422497" gagId="422497" itemType="list" id="entry-422497">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422497">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/FWrtlEvSkN4/0.jpg" alt="Tôn Cafe - Kiếp Ve Sầu Acoustic Cover ( hay hơn khi nghe bằng tai nghe nhé bạn)"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422497">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422497" class="jump_focus">Tôn Cafe - Kiếp Ve Sầu Acoustic Cover ( hay hơn khi nghe bằng tai nghe nhé bạn)</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/quangthang_xdht">ENTER CHANNEL</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.792</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422497" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		<div class="home-ads ads-center">
+			                	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+													<!-- 336x280-1 -->
+													<ins class="adsbygoogle"
+													     style="display:inline-block;width:336px;height:280px"
+													     data-ad-client="ca-pub-4155696045244728"
+													     data-ad-slot="6976586491"></ins>
+													<script>
+													(adsbygoogle = window.adsbygoogle || []).push({});
+													</script>			                </div>
+			            	                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422097" gagId="422097" itemType="list" id="entry-422097">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                	<a target="_blank" href="http://chatvl.tv/v/422097">
+	                                		<img src="http://chatvl.tv/pdata/t/422097.jpg" alt="Cả cuộc sống bỗng chốc thu bé lại vừa bằng 1 chiếc lỗ" />
+	                                	</a>
+	                                    <div class="watermark-clear"></div>
+	                                		                            </div>
+									                            <fb:comments href="http://chatvl.tv/v/422097" num_posts="5" width="460"></fb:comments>
+	                            	                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422097">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422097" class="jump_focus">Cả cuộc sống bỗng chốc thu bé lại vừa bằng 1 chiếc lỗ</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/cuong7cm4">Hoa Trần</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">165</span>
+	                            		<span class="comments">1</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422097" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422095" gagId="422095" itemType="list" id="entry-422095">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                	<a target="_blank" href="http://chatvl.tv/v/422095">
+	                                		<img src="http://chatvl.tv/pdata/t/422095.png" alt="Còn gì đắng cay hơn :(" />
+	                                	</a>
+	                                    <div class="watermark-clear"></div>
+	                                		                            </div>
+									                            <fb:comments href="http://chatvl.tv/v/422095" num_posts="5" width="460"></fb:comments>
+	                            	                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422095">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422095" class="jump_focus">Còn gì đắng cay hơn <img src="http://chatvl.com/images/emotion/2.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/cuong7cm4">Hoa Trần</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">108</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422095" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422094" gagId="422094" itemType="list" id="entry-422094">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                	<a target="_blank" href="http://chatvl.tv/v/422094">
+	                                		<img src="http://chatvl.tv/pdata/t/422094.png" alt="đàn ông bây giờ hám tiền quá" />
+	                                	</a>
+	                                    <div class="watermark-clear"></div>
+	                                		                            </div>
+									                            <fb:comments href="http://chatvl.tv/v/422094" num_posts="5" width="460"></fb:comments>
+	                            	                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422094">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422094" class="jump_focus">đàn ông bây giờ hám tiền quá</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/cuong7cm4">Hoa Trần</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">354</span>
+	                            		<span class="comments">1</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422094" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422548" gagId="422548" itemType="list" id="entry-422548">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422548">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/EikyYm4mqgk/0.jpg" alt="Quá đẳng cấp -  Có ai làm được như ô bé này không?"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422548">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422548" class="jump_focus">Quá đẳng cấp -  Có ai làm được như ô bé này không?</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/phuonghandsome911">Phuong Nguyen</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.857</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422548" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                		<div class="home-ads ads-center">
+			                	<!-- Begin js tags AdTrue for chatvl.tv_336x280 - Do not Modify -->
+									<div id="adtrue_tag_6842"></div>
+									<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+									<script type="text/javascript">
+									    var adtrue_tags = window.adtrue_tags || [];
+									    adtrue_tags.push({
+									        tag_id: 6842,
+									        width: 336,
+									        height: 280
+									    });
+									</script>
+									<!-- End Tags -->			                </div>
+			            	                    <div class="gag-link" data-url="http://chatvl.tv/v/422441" gagId="422441" itemType="list" id="entry-422441">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422441">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/KroZVhPJfP8/0.jpg" alt="Videos Triệu Like | Xem đi xem lại 1000 lần vẫn cười | People Are Crazy 2016 #8✔"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422441">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422441" class="jump_focus">Videos Triệu Like | Xem đi xem lại 1000 lần vẫn cười | People Are Crazy 2016 #8✔</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/viruxlee">Thành Trọng Lê</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.734</span>
+	                            		<span class="comments">2</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422441" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422461" gagId="422461" itemType="list" id="entry-422461">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                	<a target="_blank" href="http://chatvl.tv/v/422461">
+	                                		<img src="http://chatvl.tv/pdata/t/422461.jpg" alt="Đôi lúc cũng có công dụng đấy chứ nhỉ?" />
+	                                	</a>
+	                                    <div class="watermark-clear"></div>
+	                                		                            </div>
+									                            <fb:comments href="http://chatvl.tv/v/422461" num_posts="5" width="460"></fb:comments>
+	                            	                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422461">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422461" class="jump_focus">Đôi lúc cũng có công dụng đấy chứ nhỉ?</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/nxtnkn">Thanh Nguyen</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">127</span>
+	                            		<span class="comments">1</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422461" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422476" gagId="422476" itemType="list" id="entry-422476">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                	<a target="_blank" href="http://chatvl.tv/v/422476">
+	                                		<img src="http://chatvl.tv/pdata/t/422476.jpg" alt="Gừng càng già càng cay :)" />
+	                                	</a>
+	                                    <div class="watermark-clear"></div>
+	                                		                            </div>
+									                            <fb:comments href="http://chatvl.tv/v/422476" num_posts="5" width="460"></fb:comments>
+	                            	                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422476">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422476" class="jump_focus">Gừng càng già càng cay <img src="http://chatvl.com/images/emotion/1.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/vu_vie">Độc c&ocirc; huyền thoại</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">125</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422476" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422383" gagId="422383" itemType="list" id="entry-422383">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422383">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/EBeq_8Hn8VA/0.jpg" alt="Học sinh giả xác sống trong 'Train to Busan' gây tranh cãi"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422383">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422383" class="jump_focus">Học sinh giả xác sống trong 'Train to Busan' gây tranh cãi</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/tuhoclaptrinhios">Trần Diễm Huyền</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.859</span>
+	                            		<span class="comments">1</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422383" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422313" gagId="422313" itemType="list" id="entry-422313">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422313">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/slYyl-AtIKg/0.jpg" alt="Mashup Ông bà anh cực hay !"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422313">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422313" class="jump_focus">Mashup Ông bà anh cực hay !</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/597459320415747">Nhật Plus</a>
+										<span>1 ngày trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.115</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422313" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                    <div class="home-ads ads-center">
+		                	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									<!-- 336x280-3 -->
+									<ins class="adsbygoogle"
+									     style="display:inline-block;width:336px;height:280px"
+									     data-ad-client="ca-pub-4155696045244728"
+									     data-ad-slot="9930052894"></ins>
+									<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>		                </div>               
+	                </div>
+	            </div>	
+	            <div id="paging-buttons" class="paging-buttons">
+	            		                <a href="http://chatvl.tv/new/13" class="previous">&laquo; Trang trước</a>
+	                	                
+	                	                <a href="http://chatvl.tv/new/15" class="older">Trang sau &raquo;</a>
+	                	            </div>
+	            
+	            <div class="ads-center">
+                	<!--- Script ANTS - 728x90 --> 
+										<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+										<div class="550881704" data-ants-zone-id="550881704"></div>
+										<!--- end ANTS Script -->                </div>
+	            
+	        </div>
+	    </div>
+	</div>
+		<div class="side-bar">
+				
+		<div class="s-300">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+												<!-- 300x600-ads -->
+												<ins class="adsbygoogle"
+												     style="display:inline-block;width:300px;height:600px"
+												     data-ad-client="ca-pub-4155696045244728"
+												     data-ad-slot="2406786096"></ins>
+												<script>
+												(adsbygoogle = window.adsbygoogle || []).push({});
+												</script>		</div>
+		
+				
+				
+                
+                
+                <div class="social-block">
+            <h3>Ủng hộ Chất VL</h3>
+            <div class="facebook-like">
+                <iframe src="//www.facebook.com/plugins/like.php?href=http://facebook.com/Chatvl-230524920636732%2F&amp;send=false&amp;layout=standard&amp;width=270&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:30px;" allowTransparency="true"></iframe>
+            </div>
+            <div class="twitter-follow">
+            	<a rel="nofollow" href="http://twitter.com/chatvlcom" class="twitter-follow-button">Theo dõi @chatvlcom</a>
+            </div>            
+            <div class="google-plus">
+            	<!-- Place this tag where you want the widget to render. -->
+				<div class="g-page"  data-width="268" data-href="https://plus.google.com/116275304532198710627" data-layout="landscape" data-rel="publisher"></div>
+		
+				<!-- Place this tag after the last widget tag. -->
+				<script type="text/javascript">
+				  window.___gcfg = {lang: 'vi'};
+				  (function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/platform.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				  })();
+				</script>
+		            	
+            </div>
+        </div>
+                
+                <div class="s-300" >
+        <!-- Begin js tags AdTrue for chatvl.tv_300x250 - Do not Modify -->
+											<div id="adtrue_tag_6840"></div>
+											<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+											<script type="text/javascript">
+											    var adtrue_tags = window.adtrue_tags || [];
+											    adtrue_tags.push({
+											        tag_id: 6840,
+											        width: 300,
+											        height: 250
+											    });
+											</script>
+											<!-- End Tags -->        </div>
+                
+		<div id="moving-boxes">
+						<div class="s-300" >
+				<!--- Script ANTS - 300x250 --> 
+						<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+						<div class="550878820" data-ants-zone-id="550878820"></div>
+						<!--- end ANTS Script -->	        </div>
+	        <div class="s-300" >
+	        	<!-- Begin js tags AdTrue for chatvl.tv_300x250 - Do not Modify -->
+											<div id="adtrue_tag_6840"></div>
+											<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+											<script type="text/javascript">
+											    var adtrue_tags = window.adtrue_tags || [];
+											    adtrue_tags.push({
+											        tag_id: 6840,
+											        width: 300,
+											        height: 250
+											    });
+											</script>
+											<!-- End Tags -->	        </div>
+	        	        
+			
+		</div>
+    </div>	<script type="text/javascript" src="http://chatvl.tv/js/common_v1.0.js?t=26102014"></script>
+<div id="footer" class="">
+	<div></div>
+	<center>
+		<div><a href="/faq">Câu hỏi thường gặp</a> | <a href="http://bit.ly/troll24h-contact" target="_blank">Liên hệ</a></div>
+		<div>© 2013 ChatVL </div>
+	</center>
+	</div>
+	<div class="left-float">
+	</div>
+	<div class="right-float">
+	</div>
+	<div class="fixed-function">
+		<div class="facebook-like">
+			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com/Chatvl-230524920636732&amp;width=450&amp;layout=box_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:65px;" allowTransparency="true"></iframe>
+		</div>
+		<div class="feedback">
+			<a href="http://bit.ly/troll24h-contact" target="_blank" title="Góp ý - Báo lỗi">Góp ý</a>
+		</div>
+	</div>
+</div>
+<div class="footer-wrapper"></div>
+<script>
+									  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+									  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+									  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+									  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+									
+									  ga('create', 'UA-19751128-32', 'auto');
+									  ga('send', 'pageview');
+									
+									</script></body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script>
+	var access = 104;
+	var link = '/new/5';
+	function get_access($a){
+		return $a + 12;
+	}
+	var _0x78ec=["\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x20","\x61\x63\x63\x65\x73\x73\x5F\x63\x6F\x64\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x74\x6F\x70",""];function setCookie(_0xb62cx2,_0xb62cx3,_0xb62cx4){var _0xb62cx5= new Date();_0xb62cx5[_0x78ec[1]](_0xb62cx5[_0x78ec[0]]()+(_0xb62cx4*24*60*60*1000));var _0xb62cx6=_0x78ec[2]+_0xb62cx5[_0x78ec[3]]();document[_0x78ec[4]]=_0xb62cx2+_0x78ec[5]+_0xb62cx3+_0x78ec[6]+_0xb62cx6;} ;function link_click(){setCookie(_0x78ec[7],get_access(access),30);window[_0x78ec[9]][_0x78ec[8]]=_0x78ec[10];} ;
+</script>
+</head>
+<body style="text-align: center;">
+<h1>Chào mừng bạn đến với Chatvl.com</h1>
+<h2><a href="#" onclick="link_click();">Nhấn vào đây để xem nội dung</a></h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	<title>Video hài clip hài mới nhất hay nhất - trang 3 - Chất VL</title>
+	<meta name="description" content="Video hài clip hài mới nhất hay nhất, Xem video hài mới nhất, hay nhất, hot nhất chỉ có tại chatvl.com">
+	<meta name="keywords" content="video hài, clip hài, chatvl, chatvl.com, chất VL">
+	
+	<meta property="og:title" content="Video hài clip hài mới nhất hay nhất - trang 3 - Chất VL"/>
+	<meta property="og:url" content="http://chatvl.tv/new/3"/>
+	<meta property="og:type" content="article" />
+	<meta property="fb:app_id" content="1042351895800175">
+	<meta property="og:description" content="Click để xem và bình luận" />
+	<meta property="fb:admins" content="100013058778733,100005301279976,100009723575508,100009713315879,100008861521072,100006640680406,100009291058071,100010394146364,100010798692194,100011135765045,100005892785798">
+
+<link href="http://chatvl.tv/css/style.css?t=21122015" media="screen" rel="stylesheet" type="text/css" />
+<link rel="icon" href="http://chatvl.tv/favicon.ico" />
+<link rel="shortcut icon" href="http://chatvl.tv/favicon.ico" />
+
+<link rel="apple-touch-icon" href="http://chatvl.tv/m/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://chatvl.tv/m/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://chatvl.tv/m/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://chatvl.tv/m/images/touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon-precomposed" href="http://chatvl.tv/m/images/apple-touch-icon.png" />
+	
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://chatvl.tv/js/jquery.scrollTo-1.4.2-min.js"></script>
+<script type="text/javascript" src="http://chatvl.tv/js/troll_all.js?t=25102014"></script>
+
+<script type="text/javascript" src="http://chatvl.tv/js/troll.js?t=25112015"></script>
+
+<script type="text/javascript">
+	$baseurl = 'http://chatvl.tv';
+	</script>
+
+
+</head>
+<body id="page-landing" class="main-body" onkeydown="keyfind(event)">
+
+<div id="fb-root"></div>
+
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+	  		appId: '1042351895800175',
+	  		status: true,
+           	cookie: true, 
+           	xfbml: true});
+};
+//Load the SDK Asynchronously
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/vi_VN/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+ }(document));
+</script>
+
+<div id="tmp-img" style="display:none"></div>
+<div id="head-wrapper">    
+    <div id="head-bar">
+        <div class="head-logo"><a href="http://chatvl.tv/">Chất VL</a></div>
+        <ul class="main-menu" style="overflow:visible">            
+			<li class="current"><a href="http://chatvl.tv">Mới</a></li>
+            <li class=""><a href="http://chatvl.tv/hot">Hot</a></li>
+            <li class=""><a href="http://chatvl.tv/vote">Bình chọn</a></li>
+            <li class=""><a href="http://chatvl.tv/video">Video</a></li>
+            <li class=""><a href="http://chatvl.tv/photo">Ảnh</a></li>
+            <li class=""><a href="http://chatvl.tv/builder/rage">Chế comic</a></li>
+            <li class=""><a href="http://chatvl.tv/builder/memes">Chế meme</a></li>
+            <li class=""><a href="http://chatvl.tv/search">Tìm kiếm</a></li>
+            <li><a target="_blank" href="http://bit.ly/1tgq783">Android</a></li>
+            <li><a target="_blank" href="http://apple.co/1DZvyvR">iOS</a></li>
+        </ul>
+        
+        <ul class="main-2-menu">
+        	
+                          
+            <li><a href="http://chatvl.tv/login" class="login">Đăng nhập</a></li>            
+                        <li class="upload"><a href="http://chatvl.tv/submit">Đăng bài</a></li>
+        </ul>
+    </div>
+</div><div id="container">
+	<div id="main">
+	    <div id="content-holder">        
+	        <div id="content">     
+	        	<div id="use-tips">
+	                <div id="view-info" class="list-tips">
+	                    <span><b>Mẹo</b>: Dùng phím trái(←) và phải(→) để lướt chatvl nhanh hơn. Gặp bài hay hãy <b>"like"</b> động viên tác giả nhé <img src='/images/emotion/4.gif'/></span>
+	                </div>
+	            </div>                 
+	            <div id="entries-content" class="list">
+	                <div id="entries-content-ul" class="col-1"> 
+	                		                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422777" gagId="422777" itemType="list" id="entry-422777">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422777">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/NG1epw3mbFM/0.jpg" alt="Cách bắt cả XÔ TÔM độc đáo và hiệu quả sử dụng những chiếc bao bì vứt đi."/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422777">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422777" class="jump_focus">Cách bắt cả XÔ TÔM độc đáo và hiệu quả sử dụng những chiếc bao bì vứt đi.</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/ngocnguyen6495">Chatvl.com</a>
+										<span>1 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">736</span>
+	                            		<span class="comments">4</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422777" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		<div class="home-ads ads-center">
+			                	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+													<!-- 336x280-1 -->
+													<ins class="adsbygoogle"
+													     style="display:inline-block;width:336px;height:280px"
+													     data-ad-client="ca-pub-4155696045244728"
+													     data-ad-slot="6976586491"></ins>
+													<script>
+													(adsbygoogle = window.adsbygoogle || []).push({});
+													</script>			                </div>
+			            	                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422841" gagId="422841" itemType="list" id="entry-422841">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422841">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/s7z35PlFBDo/0.jpg" alt="Bắt cá chưa bao giờ dễ hơn vậy :))"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422841">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422841" class="jump_focus">Bắt cá chưa bao giờ dễ hơn vậy <img src="http://chatvl.com/images/emotion/21.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/anhlahuy91">T&ocirc;i Y&ecirc;u Chatvl.com</a>
+										<span>1 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">438</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422841" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422823" gagId="422823" itemType="list" id="entry-422823">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422823">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/qQWJZ5O41m8/0.jpg" alt="Vợ & Bồ CHẤT VL"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422823">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422823" class="jump_focus">Vợ & Bồ CHẤT VL</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/truongkqt57">Nhạc Chế Phố N&uacute;i</a>
+										<span>1 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">2.141</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422823" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422825" gagId="422825" itemType="list" id="entry-422825">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422825">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/6nS0N9SQk4Y/0.jpg" alt="Khi support Ks của Ad và kết đắng lòng"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422825">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422825" class="jump_focus">Khi support Ks của Ad và kết đắng lòng</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/644517179029227">Minh Khỉ</a>
+										<span>1 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">2.270</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422825" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422838" gagId="422838" itemType="list" id="entry-422838">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422838">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/yx_j0TGx2Hw/0.jpg" alt="Lòng người vô tâm đến thế :'( :'("/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422838">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422838" class="jump_focus">Lòng người vô tâm đến thế <img src="http://chatvl.com/images/emotion/20.gif" /> <img src="http://chatvl.com/images/emotion/20.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/tran_phuc_96">Phuc ToNo</a>
+										<span>1 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.510</span>
+	                            		<span class="comments">5</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422838" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                		<div class="home-ads ads-center">
+			                	<!-- Begin js tags AdTrue for chatvl.tv_336x280 - Do not Modify -->
+									<div id="adtrue_tag_6842"></div>
+									<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+									<script type="text/javascript">
+									    var adtrue_tags = window.adtrue_tags || [];
+									    adtrue_tags.push({
+									        tag_id: 6842,
+									        width: 336,
+									        height: 280
+									    });
+									</script>
+									<!-- End Tags -->			                </div>
+			            	                    <div class="gag-link" data-url="http://chatvl.tv/v/422840" gagId="422840" itemType="list" id="entry-422840">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422840">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/GL4ytwd3t0Q/0.jpg" alt="Có khi phải sửa lại là khôn như bò thôi =))"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422840">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422840" class="jump_focus">Có khi phải sửa lại là khôn như bò thôi <img src="http://chatvl.com/images/emotion/24.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/anhlahuy91">T&ocirc;i Y&ecirc;u Chatvl.com</a>
+										<span>2 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.224</span>
+	                            		<span class="comments">1</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422840" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422847" gagId="422847" itemType="list" id="entry-422847">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422847">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/Qs3i4UpAqw4/0.jpg" alt="thanh niên này gan nhỉ"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422847">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422847" class="jump_focus">thanh niên này gan nhỉ</a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/khanhduongtechtime">Dương Khánh</a>
+										<span>2 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.514</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422847" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422863" gagId="422863" itemType="list" id="entry-422863">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422863">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/rjJZgfrnl-U/0.jpg" alt="Mì Phải Ăn Thế Này Mới Đã :))"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422863">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422863" class="jump_focus">Mì Phải Ăn Thế Này Mới Đã <img src="http://chatvl.com/images/emotion/21.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/703320316494570">Le Ngoc Canh</a>
+										<span>2 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.042</span>
+	                            		<span class="comments">0</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422863" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422839" gagId="422839" itemType="list" id="entry-422839">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422839">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/rsShukTPJlU/0.jpg" alt="Khu vui chơi ở đâu mà vui như vậy nhỉ :))"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422839">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422839" class="jump_focus">Khu vui chơi ở đâu mà vui như vậy nhỉ <img src="http://chatvl.com/images/emotion/21.gif" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/anhlahuy91">T&ocirc;i Y&ecirc;u Chatvl.com</a>
+										<span>2 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">1.310</span>
+	                            		<span class="comments">2</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422839" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                		                		                    <div class="gag-link" data-url="http://chatvl.tv/v/422834" gagId="422834" itemType="list" id="entry-422834">
+	                    	<div class="content">
+	                            <div class="img-wrap">
+	                            			                                		<a target="_blank" href="http://chatvl.tv/v/422834">
+		                                    	<img class="thumb-img" src="http://i.ytimg.com/vi/Tzuj1YMw1yQ/0.jpg" alt="Tội cho người đàn ông ấy :v"/>
+		                                    	<img class="videoIndicator" src="http://chatvl.tv/images/play_icon.png" />
+		                                    </a>	                                    
+	                                    	                            </div>
+									                        </div>
+	                        
+	                        <div class="post-info" >
+	                            <div class="info scriptolution-stop" id="action-422834">
+	                                <h1><a target="_blank" href="http://chatvl.tv/v/422834" class="jump_focus">Tội cho người đàn ông ấy <img src="http://chatvl.com/images/emotion/fb_pacman.png" /></a></h1>
+	                                <div class="uinfo">
+		                            	bởi <a href="http://chatvl.tv/user/nguyenminhtri91945">Yến Yến</a>
+										<span>2 giờ trước</span>
+									</div>
+	                                <div class="p-stats">
+	                                	<span title="Lượt xem" class="views">522</span>
+	                            		<span class="comments">1</span>
+	                                </div>
+	                                <div class="like-box">
+	                                	<iframe width="200" height="20" scrolling="no" src="http://chatvl.tv/like/422834" frameborder="0"></iframe>
+	                                </div>
+	                            </div>
+	                        </div>                      
+	                    </div>
+	                    	                    <div class="home-ads ads-center">
+		                	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									<!-- 336x280-3 -->
+									<ins class="adsbygoogle"
+									     style="display:inline-block;width:336px;height:280px"
+									     data-ad-client="ca-pub-4155696045244728"
+									     data-ad-slot="9930052894"></ins>
+									<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>		                </div>               
+	                </div>
+	            </div>	
+	            <div id="paging-buttons" class="paging-buttons">
+	            		                <a href="http://chatvl.tv/new/2" class="previous">&laquo; Trang trước</a>
+	                	                
+	                	                <a href="http://chatvl.tv/new/4" class="older">Trang sau &raquo;</a>
+	                	            </div>
+	            
+	            <div class="ads-center">
+                	<!--- Script ANTS - 728x90 --> 
+										<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+										<div class="550881704" data-ants-zone-id="550881704"></div>
+										<!--- end ANTS Script -->                </div>
+	            
+	        </div>
+	    </div>
+	</div>
+		<div class="side-bar">
+				
+		<div class="s-300">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+												<!-- 300x600-ads -->
+												<ins class="adsbygoogle"
+												     style="display:inline-block;width:300px;height:600px"
+												     data-ad-client="ca-pub-4155696045244728"
+												     data-ad-slot="2406786096"></ins>
+												<script>
+												(adsbygoogle = window.adsbygoogle || []).push({});
+												</script>		</div>
+		
+				
+				
+                
+                
+                <div class="social-block">
+            <h3>Ủng hộ Chất VL</h3>
+            <div class="facebook-like">
+                <iframe src="//www.facebook.com/plugins/like.php?href=http://facebook.com/Chatvl-230524920636732%2F&amp;send=false&amp;layout=standard&amp;width=270&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:30px;" allowTransparency="true"></iframe>
+            </div>
+            <div class="twitter-follow">
+            	<a rel="nofollow" href="http://twitter.com/chatvlcom" class="twitter-follow-button">Theo dõi @chatvlcom</a>
+            </div>            
+            <div class="google-plus">
+            	<!-- Place this tag where you want the widget to render. -->
+				<div class="g-page"  data-width="268" data-href="https://plus.google.com/116275304532198710627" data-layout="landscape" data-rel="publisher"></div>
+		
+				<!-- Place this tag after the last widget tag. -->
+				<script type="text/javascript">
+				  window.___gcfg = {lang: 'vi'};
+				  (function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/platform.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				  })();
+				</script>
+		            	
+            </div>
+        </div>
+                
+                <div class="s-300" >
+        <!-- Begin js tags AdTrue for chatvl.tv_300x250 - Do not Modify -->
+											<div id="adtrue_tag_6840"></div>
+											<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+											<script type="text/javascript">
+											    var adtrue_tags = window.adtrue_tags || [];
+											    adtrue_tags.push({
+											        tag_id: 6840,
+											        width: 300,
+											        height: 250
+											    });
+											</script>
+											<!-- End Tags -->        </div>
+                
+		<div id="moving-boxes">
+						<div class="s-300" >
+				<!--- Script ANTS - 300x250 --> 
+						<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+						<div class="550878820" data-ants-zone-id="550878820"></div>
+						<!--- end ANTS Script -->	        </div>
+	        <div class="s-300" >
+	        	<!-- Begin js tags AdTrue for chatvl.tv_300x250 - Do not Modify -->
+											<div id="adtrue_tag_6840"></div>
+											<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+											<script type="text/javascript">
+											    var adtrue_tags = window.adtrue_tags || [];
+											    adtrue_tags.push({
+											        tag_id: 6840,
+											        width: 300,
+											        height: 250
+											    });
+											</script>
+											<!-- End Tags -->	        </div>
+	        	        
+			
+		</div>
+    </div>	<script type="text/javascript" src="http://chatvl.tv/js/common_v1.0.js?t=26102014"></script>
+<div id="footer" class="">
+	<div></div>
+	<center>
+		<div><a href="/faq">Câu hỏi thường gặp</a> | <a href="http://bit.ly/troll24h-contact" target="_blank">Liên hệ</a></div>
+		<div>© 2013 ChatVL </div>
+	</center>
+	</div>
+	<div class="left-float">
+	</div>
+	<div class="right-float">
+	</div>
+	<div class="fixed-function">
+		<div class="facebook-like">
+			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com/Chatvl-230524920636732&amp;width=450&amp;layout=box_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:65px;" allowTransparency="true"></iframe>
+		</div>
+		<div class="feedback">
+			<a href="http://bit.ly/troll24h-contact" target="_blank" title="Góp ý - Báo lỗi">Góp ý</a>
+		</div>
+	</div>
+</div>
+<div class="footer-wrapper"></div>
+<script>
+									  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+									  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+									  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+									  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+									
+									  ga('create', 'UA-19751128-32', 'auto');
+									  ga('send', 'pageview');
+									
+									</script></body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script>
+	var access = 104;
+	var link = '/new/10';
+	function get_access($a){
+		return $a + 12;
+	}
+	var _0x78ec=["\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x20","\x61\x63\x63\x65\x73\x73\x5F\x63\x6F\x64\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x74\x6F\x70",""];function setCookie(_0xb62cx2,_0xb62cx3,_0xb62cx4){var _0xb62cx5= new Date();_0xb62cx5[_0x78ec[1]](_0xb62cx5[_0x78ec[0]]()+(_0xb62cx4*24*60*60*1000));var _0xb62cx6=_0x78ec[2]+_0xb62cx5[_0x78ec[3]]();document[_0x78ec[4]]=_0xb62cx2+_0x78ec[5]+_0xb62cx3+_0x78ec[6]+_0xb62cx6;} ;function link_click(){setCookie(_0x78ec[7],get_access(access),30);window[_0x78ec[9]][_0x78ec[8]]=_0x78ec[10];} ;
+</script>
+</head>
+<body style="text-align: center;">
+<h1>Chào mừng bạn đến với Chatvl.com</h1>
+<h2><a href="#" onclick="link_click();">Nhấn vào đây để xem nội dung</a></h2>
+</body>
+</html>
