@@ -7,30 +7,32 @@
       <nav class="navbar navbar-default navbar-fixed-top" ng-controller="NavigationController">
         <div class="container">
             <div ng-show="!loggedIn"> <input type="text" ng-model="login.email"> <input type="password" ng-model="login.password"> <button ng-click="logUserIn()">Login</button> <a ui-sref="signUp">Create An Account</a></div>
-            <div ng-show="loggedIn"> <a ui-sref="editProfile">Edit Profile</a> 
-									 <a ui-sref="follow">Follow Users</a>
-                                    <a ng-click="logOut();">Logout</a>
+            <div ng-show="loggedIn">
+                <a ui-sref="home" class="btn btn-success">Home</a>
+                <a ui-sref="editProfile" class="btn btn-success">Edit Profile</a>
+									 <a ui-sref="follow" class="btn btn-success">Follow Users</a>
+                                    <a style="cursor:pointer;" ng-click="logOut();" class="btn btn-success">Logout</a>
             </div>
         </div>
     </nav>
-    <body>
-  
-    
-        <div ui-view></div>
+    <body ng-controller="NavigationController">
+    <div ng-show="loggedIn">
+    <div ui-view></div>
+    </div>
     </body>
     
     <script src="node_modules/angular/angular.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.js"></script>
     <script src="app/app.js"></script>
     
+
     <!-- Controllers -->
     <script src="app/signup/signup-controller.js"></script>
     <script src="app/navigation/navigation-controller.js"></script>
     <script src="app/profile/edit-profile-controller.js"></script>
     <script src="app/main/main-controller.js"></script>
-	<script src="app/follow/follow-controller.js"></script>
-    
-    
+    <script src="app/follow/follow-controller.js"></script>
+
     <!-- Libraries -->
     <script src="node_modules/ng-file-upload/dist/ng-file-upload.js"></script>
     <script src="node_modules/ng-file-upload/dist/ng-file-upload-all.js"></script>

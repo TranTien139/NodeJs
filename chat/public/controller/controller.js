@@ -1,8 +1,8 @@
-var myApp = angular.module('myApp',[]);
+var myApp = angular.module('myApp', []);
 
-myApp.controller('AppCtr',['$scope','$http',function ($scope, $http) {
-    var refresh = function() {
-        $http.get('/contactlist').success(function(response) {
+myApp.controller('AppCtr', ['$scope', '$http', function ($scope, $http) {
+    var refresh = function () {
+        $http.get('/contactlist').success(function (response) {
             console.log("I got the data I requested");
             $scope.contactlist = response;
             $scope.contact = "";
@@ -10,10 +10,19 @@ myApp.controller('AppCtr',['$scope','$http',function ($scope, $http) {
     };
     refresh();
 
-    $scope.parserMessage = function(id) {
-        $http.get('/contactlist/' + id).success(function(response) {
+    $scope.parserMessage = function (id) {
+        $http.get('/contactlist/' + id).success(function (response) {
             $scope.contact = response;
-            console.log(response);
+        });
+        var data = {
+            user_id: $scope.user_id,
+            recive_id: id
+        };
+
+        $http.post('/getmessage', data).success(function () {
+            console.log('post success');
+        }).error(function (err) {
+            console.log('post fail');
         });
     };
 

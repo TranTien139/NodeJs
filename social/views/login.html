@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Login form with social</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!--=======Font Open Sans======-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!--=======Font Awesome======-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!--=======Custom Style======-->
+    <link rel="stylesheet" href="css/stylelogin.css">
+  </head>
+  <body>
+  		<% if (message.length > 0) { %>
+		<div class="alert alert-message"><%= message %></div>
+	<% } %>
+   <form id="login-form" action="/login" method="post">
+      <!--<div class="head">Đăng Nhập</div>-->
+      <div class="social">
+        <h4>Đăng Nhập Với</h4>
+        <ul>
+          <li> 
+          <a href="/auth/facebook" class="facebook">
+            <span class="fa fa-facebook"></span>
+          </a>
+          </li>
+          <li>
+            <a href="/auth/twitter" class="twitter">
+              <span class="fa fa-twitter"></span>
+            </a>
+          </li>
+          <li>
+            <a href="/auth/google" class="google-plus">
+              <span class="fa fa-google-plus"></span>
+            </a>
+          </li>
+        </ul>
+       </div>
+
+       <div class="divider">
+         <span>hoặc</span>
+       </div>
+
+      <div class="input-field">
+        <label for="email">Email</label>
+        <input type="email" name="email" required="email" />
+        <label for="password">Mật Khẩu</label> 
+        <input type="password" name="password" required/>
+        <input type="submit" value="Đăng Nhập" />
+        <p class="text-p">Bạn chưa có tài khoản? <a onClick="parent.location='/signup'">Đăng Kí</a> </p>
+      </div>
+
+  </form>
+</body>
+</html>

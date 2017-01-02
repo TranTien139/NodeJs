@@ -91,8 +91,14 @@ module.exports = function(app, passport) {
         });
     });
 
-    app.get('/js/socket.io.js', function(req, res){
-        res.sendFile('/js/socket.io.js');
+    app.post('/getmessage',function (req, res) {
+    	console.log(req.body.user_id);
+        console.log(req.body.recive_id);
+    	res.end();
+    });
+
+    app.get('/socket.io', function(req, res){
+        res.sendFile(__dirname+'/socket.io.js');
     });
 
 };

@@ -15,7 +15,7 @@
                 templateUrl: "app/profile/edit-profile-view.html",
                 controller: "EditProfileController"
             })
-              .state('main', {
+              .state('home', {
                 url: "/",
                 templateUrl: "app/main/main.html",
                 controller: "MainController"

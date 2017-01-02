@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Trang Chủ</title>
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+    <link type="text/css" rel="stylesheet" href="../css/jquery.mmenu.css"/>
+    <link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css"/>
+    <link type="text/css" rel="stylesheet" href="../css/style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<body>
+<div class="head">
+    <nav id="menu">
+        <ul class="nav-head-menu">
+            <li class="active"><a href="/home" class="slash text-uppercase">Trang chủ </a></li>
+            <li><a href="/competition" class="slash text-uppercase">Thi Đấu</a></li>
+            <li><a href="/achivenment" class="slash text-uppercase">Thành Tích</a></li>
+        </ul>
+    </nav>
+    <nav class="navbar navbar-default">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <a href="#menu" type="button" class="navbar-toggle collapsed">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <a class="navbar-brand hidden-md hidden-lg" href="/home"><img src="theme/images/logo4.png"></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1 hidden-xs">
+            <ul class="nav navbar-nav nav-head-menu">
+                <li class="active"><a href="/home" class="slash text-uppercase">Trang chủ </a></li>
+                <li><a href="/competition" class="slash text-uppercase">Thi đấu </a></li>
+                <li><a href="/achivenment" class="slash text-uppercase">Thành Tích</a></li>
+                <li>
+                    <form class="searchbox" method="get" action="/search_friend" id="searchboxhome">
+                        <input type="search" placeholder="Tìm kiếm" id="homesearch" name="keyword"
+                               class="searchbox-input displaynone" required>
+                        <input type="submit" class="searchbox-submit" onclick="getFocus()" value="">
+                        <span class="searchbox-icon"><i class="fa fa-search "></i></span>
+                    </form>
+                </li>
+            </ul>
+            <div class="dropdown pull-right user-home">
+                <a class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="true">
+                    <span>Xin chào: <%= user.user.username %></span></a>
+
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                    <li role="separator" class="divider"></li>
+                    <li><a href="/logout">Thoát</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+</div>
+                
+                
+                
+                
+                
+                

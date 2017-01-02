@@ -1,0 +1,12 @@
+<% include block/header.html %>
+<div class = "padding60">
+    <div class="row">
+        <h2>kết quả tìm kiếm với từ khóa: <%= key %></h2>
+        <% for(var i=0; i< result.length; i++){ %>
+       <div class="form-group"> <img src="<%=  result[i].user.avatar  %>" width="100" height="100" ><span><%=  result[i].user.username  %></span> </div> <br>
+        <% } %>
+    </div>
+</div>
+ <% include block/popupchat.html %>
+
+<% include block/footer.html %>

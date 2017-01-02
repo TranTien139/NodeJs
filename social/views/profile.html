@@ -1,0 +1,20 @@
+<% include block/header.html %>
+<div class = "padding60">
+   <% if ( user._id ==  user_member){ %>
+         <div class="col-sm-10 bg-profile ">
+        <ul class="text-center">
+            <li class="avatar_profile"><img src="<%= user.user.avatar %>" style="width:120px; height:120px; border-radius:50%;">
+              <!--<div class="den">-->
+              <!-- <a href="" data-toggle="modal" data-target="#Modal_change_avatar" ><i class="fa fa-pencil-square-o"></i></a>-->
+              <!-- </div>-->
+            </li>
+            <li><h4><%= user.user.username %></h4></li>
+        </ul>
+        </div>
+   <% }else{ %>
+    <p>tien</p>
+  <%  } %>
+</div>
+<% include block/popupchat.html %>
+        
+<% include block/footer.html %>

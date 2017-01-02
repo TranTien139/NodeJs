@@ -23,3 +23,17 @@ module.exports.followUser = function(req, res){
 		follower.save();
 	})
 }
+
+module.exports.unfollowUser = function(req, res){
+    var userId = req.body.userId,
+        wasterId = req.body.wasterId;
+
+    Users.findById(wasterId, function(err, waster){
+      	waster.followers.push({userId: userId});
+    })
+
+    Users.findById(userId, function(err, follower){
+        follower.following.push({userId: wasterId});
+        //follower.save();
+    })
+}

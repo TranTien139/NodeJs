@@ -2,8 +2,8 @@
 	<li ng-repeat="waster in users"
 		ng-show="user._id !== waster._id"> {{waster.email}} 
 		<a ng-click="follow(user._id, waster._id)"
-		   ng-hide="checkIsFollowing(waster._id)">follow</a>
+		   ng-hide="checkIsFollowing(waster._id)" style="cursor: pointer;">follow</a>
 		<a ng-click="unfollow(user._id, waster._id)"
-		   ng-show="checkIsFollowing(waster._id)">unfollow</a>
+		   ng-show="checkIsFollowing(waster._id)" style="cursor: pointer;">unfollow</a>
 	</li>
 </ul>

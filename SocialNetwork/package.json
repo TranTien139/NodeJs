@@ -5,7 +5,9 @@
     "angular": "^1.4.7",
     "body-parser": "^1.14.1",
     "bootstrap": "^3.3.5",
+    "connect-flash": "^0.1.1",
     "express": "^4.13.3",
-    "mongoose": "^4.1.10"
+    "mongoose": "^4.1.10",
+    "passport": "^0.3.2"
   }
 }

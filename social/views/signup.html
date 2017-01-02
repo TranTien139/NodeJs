@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Đăng Kí Tài Khoản</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!--=======Font Open Sans======-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!--=======Font Awesome======-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!--=======Custom Style======-->
+    <link rel="stylesheet" href="css/stylelogin.css">
+  </head>
+  <body>
+	<% if (message.length > 0) { %>
+		<div class="alert alert-message"><%= message %></div>
+	<% } %>
+   <form id="login-form" action="/signup" method="post">
+      <div class="head">Đăng Kí</div>
+
+      <div class="input-field">
+        <label for="email">Email</label>
+        <input type="email" name="email" required />
+         <label for="email">Họ Tên Đầy Đủ</label>
+        <input type="text" name="username" required />
+        <label for="password">Mật Khẩu</label> 
+        <input type="password" name="password" required/>
+        <input type="submit" value="Đăng Kí" />
+         <p class="text-p">Trở về đăng nhập? <a onClick="parent.location='/login'">Đăng Nhập</a> </p>
+      </div>
+
+  </form>
+</body>
+</html>
+

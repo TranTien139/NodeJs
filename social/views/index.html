@@ -1,0 +1,42 @@
+<% include block/header.html %>
+<div class = "padding60">
+    <div class="row">
+        <div class="col-sm-3 hidden-xs info_left1">
+        <ul class="list-inline">
+            <li class="avatar_profile"><img src="<%= user.user.avatar %>" class="img_profile">
+              <div class="den">
+               <a href="" data-toggle="modal" data-target="#Modal_change_avatar" ><i class="fa fa-pencil-square-o"></i></a>
+               </div>
+            </li>
+            <li><a href="profile/<%= user._id %> "><%= user.user.username %></a></li>
+        </ul>
+        </div>
+        <div class="col-sm-8">helllo</div>
+    </div>
+</div>
+ <% include block/popupchat.html %>
+        
+<!-- model edit profile  -->
+<form action="/editprofile" method="post" enctype="multipart/form-data">
+<div class="modal fade" id="Modal_change_avatar" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Thay đổi ảnh đại diện</h4>
+      </div>
+      <div class="modal-body">
+        <img src="<%= user.user.avatar %>" class="image_profile img-responsive" alt="Chưa có ảnh đại diện..."  name="userimage" id="userimage"  />
+       <input type="file" name="file" id="preview_profile_img">
+       <input type="hidden" name="txtemail" value="<%= user.user.email %>">
+       <input type="hidden" name="txtimage_profile" class="txtimage_profile">
+      </div>
+      <div class="modal-footer">
+        <button type="submit"  class="btn btn-primary">Lưu</button>
+      </div>
+    </div>
+  </div>       
+</div>
+</form>
+
+<% include block/footer.html %>

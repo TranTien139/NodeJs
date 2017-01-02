@@ -16,6 +16,14 @@
 				console.log("following ", wasterId);
 			})
 		}
+
+        $scope.follow = function(userId, wasterId) {
+            request = { userId: userId,
+                wasterId: wasterId};
+            $http.post('api/users/unfollow', request).then(function(){
+                console.log("unfollowing ", wasterId);
+            })
+        }
 		
 		$scope.checkIsFollowing = function(wasterId){
 			for(var i = 0, len = $scope.user.following.length; i < len; i++){

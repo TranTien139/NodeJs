@@ -12,10 +12,11 @@
 </head>
 
 <body>
-<input type="hidden" value="<%= user._id %>">
-<input type="hidden" value="<%= user.facebook.name %>">
+
 <div class="wrapper">
 	<div class="container" ng-controller = "AppCtr">
+		<input type="hidden" name="user_id" ng-model = "user_id" value="<%= user._id %>">
+		<input type="hidden" name="username" value="<%= user.facebook.name %>">
 		<div class="left">
 			<div class="top">
 				<input type="text" />
@@ -81,6 +82,7 @@
 <script>
 	$(document).ready(function(){
 	  var socket = io();
+
 	});
 </script>
 </body>
